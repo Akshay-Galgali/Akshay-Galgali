@@ -3,6 +3,7 @@
 MS in CYBERSECURITY - University of Houston, Texas, US 🌱
 
 5G Network Engineer Intern @SIMNOVUS, Cary, NC
+
 Ex-WI-FI Engineer IA @UIT, Houton, TX
 
 Network Security | Secure Computing Enterprise | Control System Security | Critical thinking in Information Security | TCP/IP | Networking Protocol - DNS, DHCP, ICMP
