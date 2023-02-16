@@ -6,11 +6,6 @@
 
 ### Akshay Galgali (He/Him)
 
-- MS in Cybersecurity – University of Houston {MAY 2023 GRADUATE}
-- 5G Network Engineer Intern @Simnovus – Cary, NC
-- Ex-Wi-Fi Engineer IA @UIT – Houston, TX
-
-- Cybersecurity: 
 - Portfolio: https://akshay-galgali.github.io/me/
 - Projects: https://github.com/Akshay-Galgali
 - Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
@@ -21,12 +16,12 @@ _ “Life isn’t short we just gotta do more.”
 
 ### Projects
 
-SN | PROJECT NAME | TECHNOLOGY USED | LINK | 
+SR NO. | PROJECT NAME | TECHNOLOGY USED | LINK | 
 --- | --------- | -------- | :-------: | 
 1 | MALICIOUS URL DETECTION | PYTHON, RANDOM FOREST, PHISHTANK DATASET| [Github](https://github.com/Akshay-Galgali/MaliciousURLdetection)
-OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta, Shell | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
-HPS Gems | HTML, CSS, JS | PHP, MySQL, Heroku | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
-Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
+2 | KEYSTROKE LOGGER | PYTHON SCRIPTS, LIBRARIES, VIRTUAL MACHINES | [Github](https://github.com/Akshay-Galgali/Keystrokelogger)
+3 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
+4 | MODBUS ATTACK & PACKET INJECTION | MODSAK SIMULATOR, ICS, MS ENV | [Github](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf)
 
 Template | Front End | Live Demo | Repo
 -------- | --------- | :-------: | :--:
