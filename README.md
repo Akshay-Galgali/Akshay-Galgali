@@ -23,10 +23,10 @@ SR NO. | PROJECT NAME | TECHNOLOGY USED | LINK |
 3 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
 4 | MODBUS ATTACK & PACKET INJECTION | MODSAK SIMULATOR, ICS, MS ENV | [Github](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf)
 5 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
-6 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
-7 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
-8 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
-9 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
+6 | MGTRAVELS - Website | HTML, PHP, CSS, JS, MySQL | 
+7 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | 
+8 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | 
+9 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | 
 
 
 ### Papers
