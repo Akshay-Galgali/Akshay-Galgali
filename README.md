@@ -10,20 +10,20 @@
 - 5G Network Engineer Intern @Simnovus – Cary, NC
 - Ex-Wi-Fi Engineer IA @UIT – Houston, TX
 
-- •	Cybersecurity: 
-- •	Portfolio: https://akshay-galgali.github.io/me/
-- •	Projects: https://github.com/Akshay-Galgali
-- •	Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
-- •	Contact: mailto:agalgali@cougarnet.uh.edu
+- Cybersecurity: 
+- Portfolio: https://akshay-galgali.github.io/me/
+- Projects: https://github.com/Akshay-Galgali
+- Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
+- Contact: mailto:agalgali@cougarnet.uh.edu
 
 _ “Life isn’t short we just gotta do more.”
 
 
-### Salient Projects
+### Projects
 
-Web App | Front End | Back End | Live Demo | Repo
-------- | --------- | -------- | :-------: | :--:
-Git Graph | React.js | - | [link](https://git-graph.harshkapadia.me) | [link](https://github.com/HarshKapadia2/git-graph)
+SR NO. | PROJECT NAME | TECHNOLOGY USED | LINK | 
+------- | --------- | -------- | :-------: | 
+1 | MALICIOUS URL DETECTION | PYTHON, RANDOM FOREST, PHISHTANK DATASET| [Github](https://github.com/Akshay-Galgali/MaliciousURLdetection)
 OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta, Shell | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
 HPS Gems | HTML, CSS, JS | PHP, MySQL, Heroku | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
 Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
