@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Akshay-Galgali
-- 🌱 I’m currently pursuing Master of Science in Cybersecurity at the University of Houston - Main Campus, Texas.
-- Network Security | Secure Computing Enterprise | Control System Security | Critical thinking in Information Security.
-- TCP/IP | Networking Protocol - DNS, DHCP, ICMP.
-
-
 ### Akshay Galgali (He/Him)
+
+MS in CYBERSECURITY - University of Houston, Texas, US 🌱
+
+5G Network Engineer Intern @SIMNOVUS, Cary, NC
+
+Ex-WI-FI Engineer IA @UIT, Houton, TX
+
+Network Security | Secure Computing Enterprise | Control System Security | Critical thinking in Information Security | TCP/IP | Networking Protocol - DNS, DHCP, ICMP
 
 - Portfolio: https://akshay-galgali.github.io/me/
 - Projects: https://github.com/Akshay-Galgali
@@ -21,12 +23,12 @@ SR NO. | PROJECT NAME | TECHNOLOGY USED | LINK |
 1 | Malicious URL Detection | Python, Random Forest, Phish Tank Dataset| [Github](https://github.com/Akshay-Galgali/MaliciousURLdetection)
 2 |Keystroke Logger - HACKTHEKEY | Python Scripts, Virtual Machine, Python Libraries | [Github](https://github.com/Akshay-Galgali/Keystrokelogger)
 3 | SCADA - PLC | SCADABR, Ladder Logic, PLC | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
-4 | MODBUS ATTACK & PACKET INJECTION | MODSAK SIMULATOR, ICS, MS ENV | [Github](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf)
-5 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
+4 | MODBUS ATTACK & PACKET INJECTION | Modsak Simulator, Virtual Machines, Shell Scripting, Industrial Control Systems | [Github](https://github.com/Akshay-Galgali/MODBUSATTACK) , [Report] (https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf)
+5 | BhojanBot.AI | ChatBot, Artificial Intelligence, DiagFlow | [Chatbot](https://t.me/Bhojan_Bot) | [YouTube](https://www.youtube.com/watch?v=NHbltKTJ5a4&ab_channel=MG)
 6 | MGTRAVELS - Website | HTML, PHP, CSS, JS, MySQL | 
-7 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | 
-8 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | 
-9 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | 
+7 | Virtual Chemistry Lab | HTTP Server, PHP, JS, MySQL, HTML5, CSS3 | [WebApp] (https://akshay-galgali.github.io/virtualchemistrylab.github.io/)  [Paper] (https://www.irjet.net/archives/V7/i12/IRJET-V7I1284.pdf)  [Certificate] (https://drive.google.com/file/d/1_In-PfZzuK5L5oqQFwmBDZ9McY1m27KX/view) [GitHub] (https://github.com/Akshay-Galgali/virtualchemistrylab.github.io)
+8 | Cryptanalysis - Encryption and Decryption | Ceaser Cipher, Brute Force Analysis, Cryptool, Python | [Report] (https://github.com/Akshay-Galgali/cryptanalysis/blob/main/CRYPTANALYSIS-2060882.pdf)  [GitHub] (https://github.com/Akshay-Galgali/cryptanalysis)
+9 | Incident Response Management - Network/Log Analysis | Incident Response Plan, Analysis, Virtual Machines, Linux | [Report] (https://github.com/Akshay-Galgali/Incidentresponsemanagement/blob/main/Lab4-2060882.pdf)  [GitHub] (https://github.com/Akshay-Galgali/Incidentresponsemanagement)
 
 
 ### Papers
