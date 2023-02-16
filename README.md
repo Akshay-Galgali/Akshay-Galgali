@@ -3,7 +3,6 @@
 MS in CYBERSECURITY - University of Houston, Texas, US 🌱
 
 5G Network Engineer Intern @SIMNOVUS, Cary, NC
-
 Ex-WI-FI Engineer IA @UIT, Houton, TX
 
 Network Security | Secure Computing Enterprise | Control System Security | Critical thinking in Information Security | TCP/IP | Networking Protocol - DNS, DHCP, ICMP
@@ -13,7 +12,7 @@ Network Security | Secure Computing Enterprise | Control System Security | Criti
 - Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
 - Contact: mailto:agalgali@cougarnet.uh.edu
 
-_ “Life isn’t short we just gotta do more.”
+“Life isn’t short we just gotta do more.”
 
 
 ### Projects
