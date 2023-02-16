@@ -18,9 +18,9 @@ _ “Life isn’t short we just gotta do more.”
 
 SR NO. | PROJECT NAME | TECHNOLOGY USED | LINK | 
 --- | --------- | -------- | :-------: | 
-1 | MALICIOUS URL DETECTION | PYTHON, RANDOM FOREST, PHISHTANK DATASET| [Github](https://github.com/Akshay-Galgali/MaliciousURLdetection)
-2 | KEYSTROKE LOGGER | PYTHON SCRIPTS, LIBRARIES, VIRTUAL MACHINES | [Github](https://github.com/Akshay-Galgali/Keystrokelogger)
-3 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
+1 | Malicious URL Detection | Python, Random Forest, Phish Tank Dataset| [Github](https://github.com/Akshay-Galgali/MaliciousURLdetection)
+2 |Keystroke Logger - HACKTHEKEY | Python Scripts, Virtual Machine, Python Libraries | [Github](https://github.com/Akshay-Galgali/Keystrokelogger)
+3 | SCADA - PLC | SCADABR, Ladder Logic, PLC | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
 4 | MODBUS ATTACK & PACKET INJECTION | MODSAK SIMULATOR, ICS, MS ENV | [Github](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf)
 5 | SCADA - PLC | SCADABR, LADDERLOGIC, PLC | [link](https://hps-gems.herokuapp.com) | [Report](https://github.com/Akshay-Galgali/MODBUSATTACK/blob/main/Modbus%20Attack%20%26%20Packet%20Injection%20Lab%20Report.pdf) | [Report](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf) | [Github](https://github.com/Akshay-Galgali/SCADA-PLC/blob/main/PLCPROJECTREPORT.pdf)
 6 | MGTRAVELS - Website | HTML, PHP, CSS, JS, MySQL | 
