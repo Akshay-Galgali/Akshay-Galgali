@@ -21,8 +21,8 @@ _ “Life isn’t short we just gotta do more.”
 
 ### Projects
 
-SR NO. | PROJECT NAME | TECHNOLOGY USED | LINK | 
-------- | --------- | -------- | :-------: | 
+SN | PROJECT NAME | TECHNOLOGY USED | LINK | 
+--- | --------- | -------- | :-------: | 
 1 | MALICIOUS URL DETECTION | PYTHON, RANDOM FOREST, PHISHTANK DATASET| [Github](https://github.com/Akshay-Galgali/MaliciousURLdetection)
 OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta, Shell | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
 HPS Gems | HTML, CSS, JS | PHP, MySQL, Heroku | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
