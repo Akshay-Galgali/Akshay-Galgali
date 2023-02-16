@@ -6,17 +6,17 @@
 
 ### Akshay Galgali (He/Him)
 
-MS in Cybersecurity – University of Houston {MAY 2023 GRADUATE}
-5G Network Engineer Intern @Simnovus – Cary, NC
-Ex-Wi-Fi Engineer IA @UIT – Houston, TX
+- MS in Cybersecurity – University of Houston {MAY 2023 GRADUATE}
+- 5G Network Engineer Intern @Simnovus – Cary, NC
+- Ex-Wi-Fi Engineer IA @UIT – Houston, TX
 
-•	Cybersecurity: 
-•	Portfolio: https://akshay-galgali.github.io/me/
-•	Projects: https://github.com/Akshay-Galgali
-•	Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
-•	Contact: mailto:agalgali@cougarnet.uh.edu
+- •	Cybersecurity: 
+- •	Portfolio: https://akshay-galgali.github.io/me/
+- •	Projects: https://github.com/Akshay-Galgali
+- •	Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
+- •	Contact: mailto:agalgali@cougarnet.uh.edu
 
-“Life isn’t short we just gotta do more.”
+_ “Life isn’t short we just gotta do more.”
 
 
 ### Salient Projects
