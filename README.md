@@ -4,21 +4,20 @@
 - TCP/IP | Networking Protocol - DNS, DHCP, ICMP.
 
 
-### Harsh Kapadia (He/Him)
+### Akshay Galgali (He/Him)
 
-- [Web Development](https://dev.harshkapadia.me), [Computer Networking](https://networking.harshkapadia.me) and [Git](https://git.harshkapadia.me).
-- Organiser at [Our Tech Community](https://ourtech.community).
-- Talks: [talks.harshkapadia.me](https://talks.harshkapadia.me)
-- Portfolio: [harshkapadia.me](https://harshkapadia.me)
-- Projects and resources: [dev.harshkapadia.me](https://dev.harshkapadia.me)
-- Résumé (PDF): [resume.harshkapadia.me](https://resume.harshkapadia.me)
-- Videos: [youtube.com/@HarshKapadia](https://www.youtube.com/@HarshKapadia)
-- Blog: [blog.harshkapadia.me](https://blog.harshkapadia.me)
-- Contact: [links.harshkapadia.me](https://links.harshkapadia.me)
+MS in Cybersecurity – University of Houston {MAY 2023 GRADUATE}
+5G Network Engineer Intern @Simnovus – Cary, NC
+Ex-Wi-Fi Engineer IA @UIT – Houston, TX
 
-_"Kindness always wins." -Selena Gomez_
+•	Cybersecurity: 
+•	Portfolio: https://akshay-galgali.github.io/me/
+•	Projects: https://github.com/Akshay-Galgali
+•	Résumé (PDF): https://github.com/Akshay-Galgali/resume/raw/main/Resume-Akshay_R_Galgali.pdf
+•	Contact: mailto:agalgali@cougarnet.uh.edu
 
-_"We rise by lifting others." -Robert Ingersoll_
+“Life isn’t short we just gotta do more.”
+
 
 ### Salient Projects
 
