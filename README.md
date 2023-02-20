@@ -43,5 +43,3 @@ SR NO. | PAPER NAME | LINK |
 6 | Database Cryptography in Todays Enterprise | [Read](https://drive.google.com/file/d/1aWU0Gi1Fa_ecrRhLvn7O3Li3xt4lbHvu/view)
 
 [View all projects](https://github.com/Akshay-Galgali?tab=repositories)
-
-Life is'nt short you just gotta do more!
