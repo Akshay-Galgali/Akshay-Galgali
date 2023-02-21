@@ -6,7 +6,7 @@ MS in CYBERSECURITY - University of Houston, Texas, US 🌱
 
 Ex-WI-FI Engineer IA @UIT, Houton, TX
 
-Network Security | Secure Computing Enterprise | Control System Security | Critical thinking in Information Security | TCP/IP | Networking Protocol - DNS, DHCP, ICMP
+Network Security | Secure Computing Enterprise | Control System Security | Applied Cryptography | TCP/IP | Networking Protocol | Project Management | Critical thinking in Information Security | Security Operations Centre | Cybersecurity Risk Management - DNS, DHCP, ICMP
 
 - Portfolio: https://akshay-galgali.github.io/me/
 - Projects: https://github.com/Akshay-Galgali
