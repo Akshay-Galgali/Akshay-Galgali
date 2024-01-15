@@ -1,8 +1,10 @@
 ### Akshay Galgali (He/Him)
 
-MS in CYBERSECURITY - University of Houston, Texas, US 🌱
+CYBERSECURITY PROFESSIONAL | NETWORK AND APPLICATION SECURITY
 
-5G Network Engineer Intern @SIMNOVUS, Cary, NC
+Masters in CYBERSECURITY from the University of Houston, Texas, US 🌱
+
+Wireless Security Engineer @SIMNOVUS, Cary, NC | Network Security Engineer Intern @SIMNOVUS, Cary, NC
 
 Ex-WI-FI Engineer IA @UIT, Houton, TX
 
